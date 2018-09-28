@@ -1,0 +1,8 @@
+Premise
+2 to 4 players
+1 live player and x cpu players
+location taken from text file
+sentences taken from text file
+hashmap location to ascii location displayed
+skills stored as arrays
+ 
